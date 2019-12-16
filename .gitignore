@@ -1,0 +1,4 @@
+./restapi/database/
+./restapi/methods/Orthofinder/OrthoFinder/
+./.idea/
+*.pyc
